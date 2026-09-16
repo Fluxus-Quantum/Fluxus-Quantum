@@ -1,0 +1,6 @@
+{
+  "name": "Fluxus Quantum - Consultoría en Logística & Supply Chain",
+  "description": "Plataforma de consultoría estratégica y optimización de cadena de suministro con diagnósticos rigurosos, analítica en tiempo real y transferencia de capacidades autogestionables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
