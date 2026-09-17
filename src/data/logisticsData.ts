@@ -1,7 +1,7 @@
 import { ServicePillar, PipelineNode, PersonaContent, PersonaRole } from '../types';
 
 export const OFFICIAL_BANNER_URL =
-  'https://lh3.googleusercontent.com/aida-public/AB6AXuBNhHGEw8PVryrCtkmc6H1Kj-6V7W3EHW7073uqqXlBz17zGJLoU37Dd_hT1o9jMcQncaqbGvxK_utoDGp_Lt8Uo5uNOH6GZo6X_USiOjKcRtMnxjqmY7KQYO2qU5vFpLez0zad-AV0S_8dx8WJRVet0QqUlg0rqL2yFyzpWdfg9kg7orBEh4ysS9fBkgyd8xnWrY8t3KyVG7CzHl4hizM32LJe85tfucDbTppZOnnQ1q5bDMRSmkl5SWRsTkCMpdbjRm8';
+  '/hero-bg.jpg';
 
 export const SERVICE_PILLARS: ServicePillar[] = [
   {
