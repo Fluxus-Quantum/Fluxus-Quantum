@@ -13,7 +13,7 @@ export const FluxusLogo: React.FC<FluxusLogoProps> = ({
   size = 'md',
   showSubtitle = true,
   className = '',
-  useImageAvatar = false,
+  useImageAvatar = true,
 }) => {
   // Dimension configurations
   const dimensions = {
