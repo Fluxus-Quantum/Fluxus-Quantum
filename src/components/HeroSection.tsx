@@ -24,7 +24,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
           <img
             src={OFFICIAL_BANNER_URL}
             alt="Banner Oficial Fluxus Quantum - Logística Inteligente para un Mundo en Movimiento"
-            className="w-full h-auto object-cover max-h-[300px] sm:max-h-[320px] transition-transform duration-700 group-hover:scale-[1.015]"
+            className="w-full h-auto object-cover max-h-[150px] sm:max-h-[160px] transition-transform duration-700 group-hover:scale-[1.015]"
             referrerPolicy="no-referrer"
           />
           <div className="absolute bottom-3 left-4 z-20 flex flex-wrap items-center gap-2">
