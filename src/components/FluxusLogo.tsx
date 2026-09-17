@@ -35,7 +35,7 @@ export const FluxusLogo: React.FC<FluxusLogoProps> = ({
       {useImageAvatar ? (
         <div className="relative w-full h-full rounded-full overflow-hidden border border-cyan-400/50 shadow-glow-cyan p-0.5 bg-[#080C14]">
           <img
-            src="/fluxus-quantum-logo.jpg"
+            src="/fluxus-quantum-logo.png"
             alt="Fluxus Quantum Logo"
             className="w-full h-full object-cover rounded-full"
           />
