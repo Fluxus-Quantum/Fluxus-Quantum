@@ -23,7 +23,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           onClick={() => onScreenChange('landing')}
           className="group text-left cursor-pointer focus:outline-none transition-transform duration-200 hover:opacity-95"
         >
-          <FluxusLogo variant="horizontal" size="md" />
+          <FluxusLogo variant="horizontal" size="md" useImageAvatar={true}/>
         </button>
 
         {/* Screen Switcher Mode (Desktop & Tablet) */}
